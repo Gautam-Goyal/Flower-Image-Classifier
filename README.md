@@ -12,8 +12,7 @@ In training one can pass following arguments to train a model differently
  6. Similarly for no. of hidden layers , dropout......
     
 ### Prediction
- During prediction one can choose from following functionalities:-
+During prediction one can choose from following functionalities:-
  1.For specific image input to model --input_img **(Specify full image path for correct prediction)**
- 
  2.To load a specific checkpoint --checkpoint
   etc...
