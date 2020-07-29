@@ -1,5 +1,5 @@
 # Flower Image Classifier Project
-  (Dataset not available here due to large size)
+  (Dataset not available here due to large size).
   
 ## Argument Parser
 ### Training
